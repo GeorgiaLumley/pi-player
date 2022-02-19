@@ -1,0 +1,12 @@
+{
+    "id1": {
+        "spotify_uid": "spotify:album:3X5jgDZcaiqRtUvwGO4uBs",
+        "album": "Rocky Horror",
+        "artist": "The Rocky Horror Show Ensemble"
+    },
+    "id2": {
+        "spotify_uid": "spotify:album:621cXqrTSSJi1WqDMSLmbL",
+        "album": "Trench",
+        "artist": "Twenty One Pilots"
+    }
+}
